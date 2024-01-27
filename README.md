@@ -1,0 +1,1 @@
+# Automated-Cow-Estrus-Detection-Using-YOLOv8s
